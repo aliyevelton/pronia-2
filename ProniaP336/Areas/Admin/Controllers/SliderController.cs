@@ -31,5 +31,7 @@ namespace ProniaP336.Areas.Admin.Controllers;
 
         return RedirectToAction("Index");
     }
+
+ 
 }
 
